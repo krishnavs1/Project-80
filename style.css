@@ -1,0 +1,34 @@
+#submit_button{
+margin-top:20px;
+margin-bottom:20px;    
+}
+#sort_button{
+    display:none;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input{
+margin:10px;
+}
+body{
+background-color: lightblue;
+}
+h4{
+color:red;
+}
+#name_of_the_student_1{
+background-color:lightgreen;
+color:black;
+}
+#name_of_the_student_2{
+    background-color:lightgreen;
+    color:black;
+    }
+    #name_of_the_student_3{
+        background-color:lightgreen;
+        color:black;
+        }
+        #name_of_the_student_4{
+            background-color:lightgreen;
+            color:black;
+            }
